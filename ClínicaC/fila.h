@@ -1,0 +1,9 @@
+void Criar_Medico_Apontador();
+void Colocar_Utente_Fila_Espera();
+void Remover_Primeiro_Utente_Fila_Espera();
+void listarIndividual();
+void MedicoComMaisUtentes();
+void ListarTodasFilas();
+void verificarUtente();
+void verificarMedico();
+void numeroUtentesporMedico();
